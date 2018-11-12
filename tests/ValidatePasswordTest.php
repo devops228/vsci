@@ -9,4 +9,5 @@ class ValidatePasswordTest extends \PHPUnit\Framework\TestCase
     }
 }
 
+
 ?>
